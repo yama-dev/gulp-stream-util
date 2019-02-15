@@ -1,0 +1,19 @@
+{
+  "name": "@yama-dev/gulp-stream-util",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yama-dev/gulp-stream-util.git"
+  },
+  "author": "yama-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yama-dev/gulp-stream-util/issues"
+  },
+  "homepage": "https://github.com/yama-dev/gulp-stream-util#readme"
+}
