@@ -1,6 +1,6 @@
 /*!
- * DEV TEMPLATE GULP
- * Version 0.1.0
+ * GULP STREAM UTIL
+ * Version 0.3.0
  * Repository https://github.com/yama-dev/gulp-stream-util
  * Copyright yama-dev
  * Licensed under the MIT license.
