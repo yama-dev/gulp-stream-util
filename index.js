@@ -12,7 +12,7 @@ const PluginError = require('plugin-error');
 
 const PLUGIN_NAME = 'gulp-stream-util';
 
-function gulpStreamUril(_attach, options) {
+function gulpStreamUtil(_attach, options) {
   if (!options) {
     options = {};
   }
@@ -59,4 +59,5 @@ function gulpStreamUril(_attach, options) {
   return through.obj(transform, flush);
 };
 
-module.exports = gulpStreamUril;
+module.exports = gulpStreamUtil;
+
